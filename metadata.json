@@ -1,0 +1,5 @@
+{
+  "name": "Sovereign Command Interface",
+  "description": "A high-fidelity strategic intelligence dashboard focusing on institutional memory and decisive threat assessment. Powered by Google Gemini.",
+  "requestFramePermissions": []
+}
